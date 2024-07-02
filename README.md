@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Web-Development and Java**
 
-- 🤝 I’m looking for help with **my 2D Game**
-
 - 📫 How to reach me **Discord-Username: crayson_**
 
 <h3 align="left">Connect with me:</h3>
