@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate programmer from Germany, speciali
 - **Tools & Platforms**: IntelliJ, GitHub, WebStorm, PyCharm
 
 ## 📈 Current Projects
-- Head of the development department of AllayCraft.net
+- Developer at Awonia.net
 
 ## 📫 Let's Connect!
 - Discord: `Crayson_`
