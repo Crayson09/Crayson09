@@ -1,11 +1,11 @@
-## Hi, iam Crayson 👋
+## Hi, Iam Crayson 👋
 
 Welcome to my GitHub profile! I'm a passionate programmer from Germany, specializing in Minecraft & web development.
 
   
 ## 🛠️ Tech Stack
-- **Languages**: Java, TypeScript , HTML, CSS, Python
-- **Tools & Platforms**: IntelliJ, GitHub, WebStorm, PyCharm
+- **Languages**: Java, Kotlin
+- - **Tools & Platforms**: IntelliJ, GitHub
 
 ## 📈 Current Projects
 - Developer at Awonia.net
