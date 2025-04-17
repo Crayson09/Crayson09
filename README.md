@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate programmer from Germany, speciali
   
 ## 🛠️ Tech Stack
 - **Languages**: Java, Kotlin
-- - **Tools & Platforms**: IntelliJ, GitHub
+- **Tools & Platforms**: IntelliJ, GitHub
 
 ## 📈 Current Projects
 - Developer at Awonia.net
