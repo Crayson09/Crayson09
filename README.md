@@ -14,7 +14,7 @@ I'm a 16-year-old developer from Germany. Over the past few years, I've worked o
 | 🐍 Python           | Discord bots, Flask apps     |
 | 🧰 Databases        | MongoDB, MariaDB              |
 | 🌐 Web Development  | HTML, CSS, Flask, basic TypeScript, learning next.js                   |
-| 🧪 Tools            | Git, GitHub, VS Code, IntelliJ IDEA, Webstorm,                    |
+| 🧪 Tools            | Git, GitHub, VS Code, IntelliJ IDEA, Webstorm                    |
 | 🔄 Teamwork         | Collaborating in youth dev teams & online projects    |
 
 ---
