@@ -19,7 +19,6 @@ I'm a 16-year-old developer from Germany. Over the past few years, I've worked o
 
 ---
 
-
 ## 📬 Contact & Collaboration
 
 If you're working on something meaningful and need a motivated contributor — feel free to reach out!
@@ -28,3 +27,5 @@ If you're working on something meaningful and need a motivated contributor — f
 📂 **GitHub:** [My GitHub profile](https://github.com/Crayson09/Crayson09)  
 
 I'm looking forward to joining a team that builds cool and valuable stuff! 😊
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crayson09&layout=compact)
