@@ -4,5 +4,5 @@
 
 **Projects I’m working on:**  
 
-* [AllayCraft.net](https://discord.gg/3st7msrHkU)  
+* [JustChunks.net](https://www.justchunks.net)  
 
